@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Value for Site Collection URLs of source and Target-->
+<Configuration>
+<Siteurls>
+<siteUrl Source="http://connect.willis.com/corp/CreditWriteback" Target="https://euteamsites.willistowerswatson.com/sites/CreditWriteback" SiteTitle="CreditWriteback" SouceWebApp="http://connect.willis.com"></siteUrl>
+</Siteurls>
+<ListsToExclude>
+<List>Master Page Gallery</List>
+<List>TaxonomyHiddenList</List>
+<List>User Information List</List>
+<List>Web Part Gallery</List>
+<List>Content type publishing error log</List>
+</ListsToExclude>
+</Configuration>
