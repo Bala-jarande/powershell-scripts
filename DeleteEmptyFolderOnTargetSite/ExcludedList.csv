@@ -1,0 +1,22 @@
+ExcludedList,Action
+Theme Gallery,TRUE
+Style Library,TRUE
+Solution Gallery,TRUE
+Site Collection Images,TRUE
+Site Collection Documents,TRUE
+Reporting Templates,TRUE
+Master Page Gallery,TRUE
+List Template Gallery,TRUE
+Form Templates,TRUE
+Converted Forms,TRUE
+Customized Reports,TRUE
+Web Part Gallery,TRUE
+Approval - SharePoint 2010,TRUE
+Collect Feedback - SharePoint 2010,TRUE
+Collect Signatures - SharePoint 2010,TRUE
+appfiles,TRUE
+Documents,TRUE
+Site Assets,TRUE
+Site Pages,TRUE
+Translation Packages,TRUE
+wfpub,TRUE
