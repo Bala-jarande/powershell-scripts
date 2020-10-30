@@ -1,0 +1,58 @@
+#TYPE System.Management.Automation.PSCustomObject,,,,,
+sListName,sNo. of Items,dListName,dItemsCount,,
+1,0,1,0,TRUE,TRUE
+2,0,2,0,TRUE,TRUE
+3,0,3,0,TRUE,TRUE
+4,0,4,0,TRUE,TRUE
+5,0,5,0,TRUE,TRUE
+6,0,6,0,TRUE,TRUE
+7,0,7,0,TRUE,TRUE
+8,0,8,0,TRUE,TRUE
+9,0,9,0,TRUE,TRUE
+10,0,10,0,TRUE,TRUE
+11,0,11,0,TRUE,TRUE
+12,0,12,0,TRUE,TRUE
+13,0,13,0,TRUE,TRUE
+14,0,14,0,TRUE,TRUE
+15,0,15,0,TRUE,TRUE
+16,1,16,1,TRUE,TRUE
+17,0,17,0,TRUE,TRUE
+18,0,18,0,TRUE,TRUE
+19,0,19,0,TRUE,TRUE
+20,0,20,0,TRUE,TRUE
+21,1,21,1,TRUE,TRUE
+22,3,22,3,TRUE,TRUE
+23,12,23,12,TRUE,TRUE
+24,0,24,0,TRUE,TRUE
+25,0,25,0,TRUE,TRUE
+26,13,26,13,TRUE,TRUE
+27,7,27,7,TRUE,TRUE
+28,45,28,45,TRUE,TRUE
+29,19,29,19,TRUE,TRUE
+30,48,30,48,TRUE,TRUE
+31,0,31,0,TRUE,TRUE
+Cache Profiles,0,Cache Profiles,4,,
+Content and Structure Reports,0,Content and Structure Reports,7,,
+Content type publishing error log,0,Content type publishing error log,2,,
+List Template Gallery,0,List Template Gallery,0,,
+Long Running Operation Status,0,Long Running Operation Status,0,,
+Master Page Gallery,35,Master Page Gallery,256,,
+Notification List,0,Notification List,0,,
+Quick Deploy Items,0,Quick Deploy Items,0,,
+Relationships List,0,Relationships List,1,,
+Reporting Metadata,0,NotSet,NotSet,,
+Reporting Templates,0,NotSet,NotSet,,
+Reusable Content,0,Reusable Content,3,,
+Site Collection Documents,0,Site Collection Documents,0,,
+Site Collection Images,0,Site Collection Images,0,,
+Solution Gallery,1,Solution Gallery,1,,
+Style Library,0,Style Library,28,,
+Suggested Content Browser Locations,0,Suggested Content Browser Locations,0,,
+Tasks,0,Tasks,0,,
+TaxonomyHiddenList,0,TaxonomyHiddenList,0,,
+Theme Gallery,0,Theme Gallery,41,,
+User Information List,148,User Information List,26,,
+Variation Labels,0,Variation Labels,0,,
+Web Part Gallery,48,Web Part Gallery,52,,
+wfpub,21,wfpub,21,,
+Workflow Tasks,0,Workflow Tasks,0,,

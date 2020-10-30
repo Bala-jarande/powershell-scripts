@@ -1,0 +1,41 @@
+ExcludedList,Action
+Theme Gallery,TRUE
+Style Library,TRUE
+Solution Gallery,TRUE
+Site Collection Images,TRUE
+Site Collection Documents,TRUE
+Reporting Templates,TRUE
+Master Page Gallery,TRUE
+List Template Gallery,TRUE
+Form Templates,TRUE
+Converted Forms,TRUE
+Customized Reports,TRUE
+Web Part Gallery,TRUE
+Cache Profiles,TRUE
+Content and Structure Reports,TRUE
+Content type publishing error log,TRUE
+List Template Gallery,TRUE
+Long Running Operation Status,TRUE
+Master Page Gallery,TRUE
+Notification List,TRUE
+Quick Deploy Items",TRUE
+Relationships List,TRUE
+Reporting Metadata,TRUE
+Reporting Templates,TRUE
+Reusable Content,TRUE
+Site Collection Documents,TRUE
+Site Collection Images,TRUE
+Solution Gallery,TRUE
+Style Library,TRUE
+Suggested Content Browser Locations,TRUE
+Tasks,TRUE
+TaxonomyHiddenList,TRUE
+Theme Gallery,TRUE
+User Information List,TRUE
+Variation Labels,TRUE
+Web Part Gallery,TRUE
+wfpub,TRUE
+Workflow Tasks,TRUE
+Quick Deploy Items,TRUE
+
+
