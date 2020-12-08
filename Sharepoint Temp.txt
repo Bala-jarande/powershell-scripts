@@ -1,0 +1,1785 @@
+Server name - 
+N11-CB-IDWS001D 
+Newpass!1234
+
+USNSH-I-DW237
+
+RITM0754673 
+
+http://naentapps.willistowerswatson.com/sites/willplacedm03
+
+http://willplacedm.willis.com/WillPlace/01/Documents/Forms/AllItems.aspx
+
+
+internal users
+====
+ADM Account
+
+Jarandeba_ADM
+Welcome123$
+======
+service account
+svc_crbspmigrate_p
+P_y/]qjsZy4K.DQ[bt
+
+=============
+6c4636ca-7d2e-4d92-8690-c683ed26ae5c
+
+\\usnsh-i-fs101\dept\nsh\CRB-offshore\DMA_Reports\SharePoint\Migration Sites-1 
+
+Teams
+
+https://teams.microsoft.com
+
+----
+how to find out the site template type
+go to f12>>emulation>.default>>make it>>9>> console>> g_wsaSiteTemplateId type this>>and select run arrow
+
+STS#1
+
+
+_layouts/listedit.aspx?List
+==============
+Jarandeba_ADM
+Welcome123$
+======
+service account
+svc_crbspmigrate_p
+P_y/]qjsZy4K.DQ[bt
+
+https://willistowerswatson.ketoapps.com/
+=========++++++++++++++++++++++++===================
+login as another user
+http://yourservername/_layouts/closeConnection.aspx?loginasanotheruser=true
+
+=====================+++++++++++++++++++
+
+Server name	Resource	SQL 2008 R2 Status
+USNSH-I-DW237	Kiran	uninstalled
+USNSH-I-DW238	Kiran	uninstalled
+USNSH-I-DW242	Kiran	uninstalled
+USNSH-I-DW337	Kiran	uninstalled
+USNSH-I-DW350	Kiran	uninstalled
+USNSH-I-DW444	Kiran	uninstalled
+GBIPS-I-DW353	Kiran	Not Available
+GBIPS-I-DW4034	Kiran	uninstalled
+ 
+dir\mahajande.sa\Frankfurter@54321 
+
+Jump servers
+
+N11-IT-DBAM001P 
+no IE
+USNSH-I-RS13D
+USNSH-I-RS13Q 
+
+GBIPS-I-DB60D 
+
+-===============
+Designer installed on
+USNSH-I-DW237
+USNSH-I-DW242
+USNSH-I-DW350
+=========
+Server name - 
+N11-CB-IDWS001D 
+Newpass!1234
+
+================
+
+
+_layouts/viewlsts.aspx?
+
+when publishing feature is activated
+https://support.office.com/en-us/article/features-enabled-in-a-sharepoint-online-publishing-site-3ab3810c-3c2c-4361-9d0e-0cbe666ea0b0
+
+https://www.webucator.com/tutorial/advanced-microsoft-sharepoint/sharepoint-server-publishing-infrastructure.cfm
+
+https://sharepointmaven.com/activate-publishing-features-in-sharepoint/
+
+===
+
+
+need to validate in migrated sharepoint sites
+Task
+Site name, logo home page
+List and Libraries Item count
+Pages and Navigation
+Groups, Permissions and users
+Features
+Workflows
+Infopath
+Unique Permissions
+Webparts
+List Views
+----------------++++++++++++++++++++++++++++++++++++++++++++
+
+login as another user
+http://yourservername/_layouts/closeConnection.aspx?loginasanotheruser=true
+
+
+
+E-mail Integration with Content Organizer
+ 3 sharepoint groups missing-Designer, style resource reader,Willis and pnc owners, and 18 users missing
+
+
+-------------
+20 aug 
+
+Source-http://access.willis.com/site/WTWCapgeminiNATeam destination-https://nasp.willistowerswatson.com/sites/WTWCapgeminiNATeamSource-http://access.willis.com/site/bcgrenewal destination-https://nasp.willistowerswatson.com/sites/bcgrenewal
+previous yr travel 3 dest 0
+prev yr att 33 dest 0
+security grp 1 dest 0
+web pages 2 dest 0
+diagram 7 dest 0
+announcement 1 dest 0
+contacts 4 dest 0
+cope 145 dest 0
+fudiciary liability 10 dest 0
+Non us supplimental-71
+perlis insured-58 dest 55
+policy summary non-us-186 dest 0
+Us Property valu-34
+USA property values-18
+
+
+/sites/bcgrenewal/scripts/FreezeTab.txt
+/sites/bcgrenewal/scripts/FreezeTab.txt
+
+/site/bcgrenewal/scripts/FreezeTab.txt
+
+http://access.willis.com/site/bcgrenewal/scripts/FreezeTab.txt
+
+/sites/bcgrenewal/Diagram/HomePageEditIcon.jpg
+https://nasp.willistowerswatson.com/sites/bcgrenewal/Diagram/Homepageicon.jpg
+
+======
+21 Aug
+
+19	SCBL	http://access.willis.com/sites/SCBL Destination-http://eusp.willistowerswatson.com/sites/SCBL
+Balasaheb
+20	tll	http://access.willis.com/sites/tll Destination http://eusp.willistowerswatson.com/sites/tll
+Balasaheb
+21	warrl	http://access.willis.com/sites/warrl Destination-http://eusp.willistowerswatson.com/sites/WARRL
+Balasaheb
+22	yatchl	http://access.willis.com/sites/yatchl Destination-http://eusp.willistowerswatson.com/sites/yatchl
+Balasaheb
+
+https://nasp.willistowerswatson.com/sites/pnc/PublishingImages/PNClogo.png
+
+Declarations,Lineslip Endorsements  ,Premium and Advice Bordereaux,Site Pages 
+
+all scripts uploaded into the BCGrenewal destination scripts folder 
+
+https://nasp.willistowerswatson.com/sites/bcgrenewal/scripts/FreezeTab.txt
+
+Client bill Of Rights
+http://www.willis.com/clientdisclaimer/clientbillofrights.pdf
+
+Disclaimer
+http://www.willis.com/clientdisclaimer/disclaim.htm
+
+
+fixing web part, broken links into css, workflows on list and library
+broken links on home page, left navigation top navigation logos
+
+
+http://access.willis.com/sites/tll/_layouts/viewlsts.aspx?BaseType=1
+
+ 
+TLL
+Travelers Liability Lineslip 17290M16 Owners -shafi,starling adam 
+Travelers Liability Lineslip 17290M16 Business Owners --(Users missing-moloney Michael ,thandi kishn)
+
+create Style Resource Readers -INT\w-sharepoint-admin-dv,NT AUTHORITY\authenticated users
+group owner- Travelers Liability Lineslip - 17290 Owners 
+can not create cause we cant assign limited access permission to any group
+
+
+Hide View All Site Content Link and Site Action
+Yatchl
+missing home page links
+declaration-2019 year of account folder missing--create folder of 2019 Year of Account-done
+sites pages- YOa_2019 page is missing-page need to migrate
+lineslip Endorsements -2019 yr account folder missing-create folder-done
+left nave 2019 yr account missing -create doc library with name-2019 Year of Account
+
+Name:
+2019 Year of Account 
+
+Web Address:
+http://eusp.willistowerswatson.com/sites/yatchl/2019 Year of Account/Forms/AllItems.aspx 
+
+ User missing and groups missing
+simon
+cooper
+sikhot shafi 
+style resource readers-
+Yacht Lineslip 14443M16 Business Owners-users missing maloney michael,tandi kishn
+cht Lineslip 14443M16 Owners -users missing admams starling,sikhot shafi
+Yacht Lineslip 14443M16 Visitors-user missing cain terry
+
+home page
+
+2016 Year of Account
+http://eusp.willistowerswatson.com/sites/yatchl/SitePages/YOA_2016.aspx
+2017 Year of Account
+http://eusp.willistowerswatson.com/sites/yatchl/SitePages/YOA_2017.aspx
+2018 Year of Account
+http://eusp.willistowerswatson.com/sites/yatchl/SitePages/YOA_2018.aspx
+
+original images was
+/sites/pcl/SiteImages/contacts.gif
+
+declairation
+http://eusp.willistowerswatson.com/sites/yatchl/SiteImages/doclib.gif
+
+endorsment
+http://eusp.willistowerswatson.com/sites/yatchl/SiteImages/calendar.gif
+ premium
+http://eusp.willistowerswatson.com/sites/yatchl/SiteImages/contacts.gif
+
+
+color
+#295299
+user are missing
+M.E.L. Lineslip 12069M16 Business Owners--(Users missing-moloney Michael ,thandi kishn)
+M.E.L. Lineslip 12069M16 Owners --(user missing sirkhot shafi)
+
+PNC
+/PublishingImages/Contacts.jpg
+
+
+=================
+
+
+http://eusp.willistowerswatson.com/sites/ivilhttp://eusp.willistowerswatson.com/sites/MMMServiceshttp://eusp.willistowerswatson.com/sites/pclhttp://eusp.willistowerswatson.com/sites/PortRLhttp://eusp.willistowerswatson.com/sites/rsahilhttp://eusp.willistowerswatson.com/sites/SCBL
+
+IVIL
+
+(group-I.V. & Interests Lineslip 13916M16 Business Owners (users missing maloney michael,tandi kishn
+ I.V. & Interests Lineslip - 13916 Owners-users missing admams starling,sikhot shafi)
+
+PCL
+
+Project Cargo Lineslip - 19746 Owners-users missing adams starling,sikhot shafi
+
+Project Cargo Lineslip 19746M16 Business Owners- users missing maloney michael,tandi kishn, Shafi
+  
+ 
+portpl
+grant read permissin to Group-style resource reader
+Group-style resource reader
+Users missing
+Studd, Steve C. (INT\STUDDSC) 
+Port Risks Lineslip 94960M16 Busuness Owners -users missing maloney michael,tandi kishn
+Port Risks Lineslip Owners-users missing adams starling,sikhot shafi
+
+Rahil
+user and group missing
+shafi and style resource reader
+RSA Hull & Interests Lineslip - 11487 Owners-users missing adams starling,sikhot shafi
+RSA Hull & Interests Lineslip 11487M16 Business Owners-users missing maloney michael,tandi kishn
+
+style resource added
+
+SCBL
+
+User and groups missing -shafi and style resource reader
+Small Craft Bulking Lineslip (Antares) Owners-shafi missing
+Small Craft Bulking Lineslip (Antares) Business Owners -user smissing adams starling,sikhot shafi
+
+
+
+style="color: #e1a800;"
+
+
+color: #e1a800;font-weight:400;
+
+NAtraining portal
+
+ReplayLibraryLinks -1 item missing
+TrainingDocuments -1 doc missing
+Training Documents -2 links missing
+
+NAtraining portal 
+NT AUTHORITY\authenticated users missing
+Parkinson, Simon (INT\parkinsons) 
+Paris, Andrea (INT\paris_an) 
+
+
+
+sub site-Practice training
+left navigation adjusted
+
+
+sub site-Practice training-technical training -survey List-Form formatting missing
+
+http://connect.willis.com/wna/natrainingportal/practicetraining/Lists/AdvancedPropertyTraining/NewForm.aspx
+
+
+http://connect.willis.com/wna/natrainingportal/practicetraining/Lists/AdvancedPropertyTraining/NewForm.aspx?IsDlg=1
+
+uSERS and group missing
+NT AUTHORITY\authenticated users missing
+Caraan, Aramis (INT\caraan_ar) 
+Parkinson, Simon (INT\parkinsons) 
+Paris, Andrea (INT\paris_an)
+Greer, Nora (INT\greer_ng) 
+
+
+
+PCG home page
+home page look and feel and font,color miss match- fixed
+HOme_03162012-page look and feel and font,color miss match- fixed
+Left and top navigatin links missing-fixed
+sub site-PCG staff-navigation missing
+Sub site-PCG management-navigation missing
+
+top nav checking
+http://connect.willis.com/wna/pcg/admin/SitePages/Home.aspx
+http://connect.willis.com/wna/pcg/staff/SitePages/Home.aspx
+
+
+
+PCG Management Library
+http://nateamsites.willistowerswatson.com/sites/pcg/Admin/sitepages/home.aspx
+
+PCG Staff Library
+http://nateamsites.willistowerswatson.com/sites/pcg/staff/SitePages/Home.aspx
+
+
+http://connect.willis.com/wna/pcg/SitePages/Home_03162012.aspx
+http://connect.willis.com/wna/pcg/SitePages/Training.aspx
+
+http://connect.willis.com/wna/pcg/SitePages/How%20To%20Use%20This%20Library.aspx
+
+Home_03162012
+http://nateamsites.willistowerswatson.com/sites/pcg/SitePages/Home_03162012.aspx
+
+Training
+http://nateamsites.willistowerswatson.com/sites/pcg/SitePages/Training.aspx
+
+How To Use This Library
+http://nateamsites.willistowerswatson.com/sites/pcg/SitePages/How%20To%20Use%20This%20Library.aspx
+
+
+PCG home page
+Sub site-PCG Management
+subsite-PCG staff
+ 1]sub site-Document20%library
+ 2]WPL national operation
+     OPS team p[roject tsk list -13(in source) 8 in destination
+
+PCG -domain groups are missing and users also missing
+PCG management-users missing
+PCG staff-users missing, granted permission read to  INT\w-sp-pcg-epic-r 
+     WPL national operation-users missing
+
+
+
+
+http://eusp.willistowerswatson.com/sites/IRRTPScorecard/Lists/SCR%20TP%20Scorecard%20%20Tracker/Item/displayifs.aspx
+
+http://eusp.willistowerswatson.com/sites/IRRTPScorecard/Lists/SCR%20TP%20Scorecard%20%20Tracker/Item/displayifs.aspx
+
+
+===
+
+UK technical Practice
+Left navigation links are missing
+Publications including Bulletins etc-Page look and feel mis match
+Clauses and Wordings etc.-Page look and feel mis match
+User and Groups missing
+Style Resource Readers 
+Glanville, Freda J. (INT\glanvillefr) 
+Hogarth, Carol (INT\hogarthc) 
+System Account (SHAREPOINT\system) 
+
+width-285
+
+caluse page table width -287
+
+
+
+
+====
+ 
+Links on top and left navigation is missing, 
+Items not fully migrated in lists(SCR TP Scorecard + Tracker, SCR TP Scorecard and Tracker), 
+Groups not fully migrated(235 groups in source, 
+only 11 groups migrated to target), 
+Permission for User(Lumawig, Jeneeleen B.) of groups(SCR TP Scorecard and Tracker Designer, 
+SCR TP Scorecard and Tracker Members) not migrated, Permission for user(Hall, Dean) of group(SCR TP Scorecard and Tracker Owners) not migrated, Permission for user(Baral, Zeus) of group(SCR TP Scorecard and Tracker Read-Create Group) not migrated, Permission not migrated for group(SCR TP Scorecard and Tracker Visitors )  
+
+OLD
+http://connect.willis.com/corp/williscorporate/Compliance/IRRTPScorecard-complex
+http://connect.willis.com/corp/williscorporate/Compliance/NATPScorecard-complex
+http://connect.willis.com/corp/williscorporate/Compliance/scrtpscorecardandtracker-enter
+http://connect.willis.com/gs/ProjectElba-entere
+http://connect.willis.com/wuki/ncc-entere
+http://connect.willis.com/wuki/uktechnicalpractice-enter-completed
+
+
+in progress
+http://connect.willis.com/corp/williscorporate/Compliance/WETPScorecard
+
+
+NEW
+
+http://eusp.willistowerswatson.com/sites/IRRTPScorecard-http://eusp.willistowerswatson.com/sites/NATPScorecard-enterhttp://eusp.willistowerswatson.com/sites/scrtpscorecardandtrackerhttp://eusp.willistowerswatson.com/sites/WETPScorecard http://eusp.willistowerswatson.com/sites/ProjectElba http://eusp.willistowerswatson.com/sites/ncchttp://eusp.willistowerswatson.com/sites/uktechnicalpractice
+
+
+===============
+Global Retail Income Database 2016 
+
+OLD
+http://partners.willis.com/connect/wihgrid2016
+New
+http://nasp.willistowerswatson.com/sites/wihgrid2016
+
+ServicingOfficeBackload  -Content missing
+Users and groups are missing
+
+<link rel="stylesheet" type="text/css" href="SiteAssets/CSS/CustomCORE.css"/>
+
+https://nasp.willistowerswatson.com/sites/wihgrid2016/SiteAssets/CSS/CustomCORE.css
+
+Discussion
+https://nasp.willistowerswatson.com/sites/wihgrid2016/SiteAssets/discussions.gif
+Meeting
+https://nasp.willistowerswatson.com/sites/wihgrid2016/SiteAssets/meeting.gif
+
+
+
+
+Radnor Surety 
+OLD
+http://partners.willis.com/connect/radnorsurety
+NEW
+https://nasp.willistowerswatson.com/sites/radnorsurety
+
+Old
+~masterurl/custom.master
+Tag
+<%@ Register tagprefix="WebServicesTeam_TermsCond" namespace="Willis.SharePoint2007.WebServicesTeam_TermsCond" assembly="Willis.SharePoint2007.WebServicesTeam_TermsCond, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b52c928bf856b292" %>
+
+https://nasp.willistowerswatson.com/sites/radnorsurety/SiteAssets/CSS/CustomCORE.css
+
+images
+https://nasp.willistowerswatson.com/sites/radnorsurety/SiteAssets/doclib.gif
+https://nasp.willistowerswatson.com/sites/radnorsurety/SiteAssets/manwithbriefcase.gif
+
+Some users are missing inside the sharepoint groups
+
+----------------
+OLD
+http://partners.willis.com/connect/DaviesManagedSystemClaims
+NEW
+https://eusp.willistowerswatson.com/sites/DaviesManagedSystemClaims
+Term and condition custom webpart
+
+http://eusp.willistowerswatson.com/sites/DaviesManagedSystemClaims/SiteAssets/team.gif
+http://eusp.willistowerswatson.com/sites/DaviesManagedSystemClaims/SiteAssets/contacts.gif
+http://eusp.willistowerswatson.com/sites/DaviesManagedSystemClaims/SiteAssets/generalknowledge.gif
+http://eusp.willistowerswatson.com/sites/DaviesManagedSystemClaims/SiteAssets/doclib.gif
+
+
+Logo,page images and css was missing
+DaviesManagedSystemClaims Owners -User missing-  SA - Arwin Vasquez  
+
+http://partners.willis.com/connect/DaviesManagedSystemClaims/_layouts/viewlsts.aspx
+
+
+
+
+Warning :An error occurred querying a data source.Click OK to resume filling out the form. You may want to check your form data for errors. 
+ 
+Show error details 
+
+================
+PhoenixSurety
+OLD
+http://partners.willis.com/connect/PhoenixSurety
+New
+https://nasp.willistowerswatson.com/sites/PhoenixSurety
+
+Home page missing images and css missing
+User missing-SA - Arwin Vasquez ,Supendio, Melanie
+Some of the users missing from Sharepoint groups 
+
+
+<link rel="stylesheet" type="text/css" href="SiteAssets/CSS/CustomCORE.css"/>
+
+https://nasp.willistowerswatson.com/sites/PhoenixSurety/SiteAssets/manwithbriefcase.gif
+https://nasp.willistowerswatson.com/sites/PhoenixSurety/SiteAssets/doclib.gif
+======================
+OLD
+http://connect.willis.com/corp/williscorporate/Compliance/scrtpscorecardandtracker
+NEW
+http://euteamsites.willistowerswatson.com/sites/scrtpscorecardandtracker 
+
+http://connect.willis.com/corp/williscorporate/Compliance/scrtpscorecardandtracker/Scorecard%20Library/SCR%20TP%20Scorecard%20Guide.vdw
+New
+
+http://eusp.willistowerswatson.com/sites/scrtpscorecardandtracker/Scorecard%20Library/SCR%20TP%20Scorecard%20Guide.vdw
+
+http://euteamsites.willistowerswatson.com/sites/scrtpscorecardandtracker/Scorecard%20Library/SCR%20TP%20Scorecard%20Guide.vdw?d=wdbf5945cfbe04809a99418b1571208e1
+OLD LINK in HERE 
+/sites/IRRTPScorecard/Shared%20Documents/Home.html
+
+http://euteamsites.willistowerswatson.com/sites/IRRTPScorecard/Home.html
+
+
+http://euteamsites.willistowerswatson.com/sites/WETPScorecard/Home.html
+--------------------
+OLD
+http://connect.willis.com/corp/williscorporate/Compliance/IRRTPScorecard
+http://connect.willis.com/corp/williscorporate/Compliance/NATPScorecard
+http://connect.willis.com/corp/williscorporate/Compliance/scrtpscorecardandtracker
+http://connect.willis.com/corp/williscorporate/Compliance/WETPScorecard
+http://connect.willis.com/gs/ProjectElba
+
+NEW
+http://euteamsites.willistowerswatson.com/sites/IRRTPScorecard-BALA
+Content mismatch-TP Scorecard + Tracker  
+Domain group missing
+
+http://euteamsites.willistowerswatson.com/sites/NATPScorecard 
+http://euteamsites.willistowerswatson.com/sites/scrtpscorecardandtracker -BALA
+CONTENT MISMATCH-  SCR TP Scorecard and Tracker ,SCR TP Scorecard and Tracker 
+Users missing from member and designer group
+int\w-sharepoint-admin-dv
+INT\w-sp-crb-migration
+
+Lumawig, Jeneeleen B.
+
+
+http://euteamsites.willistowerswatson.com/sites/WETPScorecard -BALA
+content missmatch-TP Scorecard + Tracker 
+
+http://euteamsites.willistowerswatson.com/sites/ProjectElba 
+NBA global-missing content
+Project management office missing content
+SOF rollout-missing content
+Willis real estate- missing content
+
+http://euteamsites.willistowerswatson.com/sites/ncc 
+http://euteamsites.willistowerswatson.com/sites/uktechnicalpractice 
+
+9/09/2019
+SCRTPscorecardTracker-Completed
+New Status- Testing In Progress
+
+http://euteamsites.willistowerswatson.com/sites/ProjectElba/ConversionTransition/Forms/AllItems.aspx
+
+http://euteamsites.willistowerswatson.com/sites/ProjectElba/CDL/Forms/AllItems.aspx
+
+
+
+
+Warning:An error occurred querying a data source.Click OK to resume filling out the form. You may want to check your form data for errors. 
+======================================
+Todays Status
+Sites ready for customer testing(highlighted in green-2)
+Sites in progress (Highlighted in Yellow-3)
+Site having issue(highlighted in Red-1)
+
+Overall Status
+67 site completed( 29 Sent to Customer + 13 Ready for Customer testing + 25 Sub Site)
+3 Sites Migration Completed, Testing and issue fixing in progress
+1 Site having custom home page issue
+
+======
+10/09/2019
+
+Site
+http://access.willis.com/site/adiahttp://connect.willis.com/corp/skylineoperationshttp://access.willis.com/site/moorparkhttp://connect.willis.com/wna/SDQMhttp://connect.willis.com/corp/carrierrelationships
+New URL
+http://eusp.willistowerswatson.com/sites/adia-yes customhttp://nateamsites.willistowerswatson.com/sites/skylineoperations-nohttp://eusp.willistowerswatson.com/sites/moorpark--yeshttp://nateamsites.willistowerswatson.com/sites/SDQM-nohttp://euteamsites.willistowerswatson.com/sites/carrierrelationships-no
+
+1.	Pending Migration
+2.	Migration in progress
+3.	Testing in progress
+4.	Completed ( ready for User testing) 
+
+Pending Migration
+Work in progress
+Ready for UAT
+on Hold
+Completed(approved by bussiness)
+
+==========================
+
+Site
+http://access.willis.com/site/adia
+NEW
+http://eusp.willistowerswatson.com/sites/adia-yes custom
+
+http://access.willis.com/site/adia/Lists/DMS%20UK%20Claims/Item/newifs.aspx?
+
+http://eusp.willistowerswatson.com/sites/adia/Lists/DMS%20UK%20Claims/Item/newifs.aspx?
+
+
+http://eusp.willistowerswatson.com/sites/adia/_layouts/15/listedit.aspx?List=b63b5be1%2D2b54%2D434b%2Db9aa%2D9c9ad2c8af48
+UK claims
+OLD
+6D5DD372-A00F-47BE-9987-ACA801017113
+New
+List=b63b5be1%2D2b54%2D434b%2Db9aa%2D9c9ad2c8af48
+
+border:1px solid 
+
+Austria
+http://access.willis.com/site/adia/Lists/Austria%20Claims/Item/newifs.aspx?List=9a9d21be%2D200b%2D46a9%2D9978%2D7aa5f951a2bf&RootFolder=&Web=7fa8643f%2D860b%2D4a3a%2D9b9b%2D277074132d32
+New
+
+http://eusp.willistowerswatson.com/sites/adia/_layouts/15/listedit.aspx?List=91db5bb5%2Da91c%2D49dc%2Daaf2%2D1e97114e0ce4
+
+91db5bb5%2Da91c%2D49dc%2Daaf2%2D1e97114e0ce4
+border:1px solid
+
+Belgium
+http://access.willis.com/site/adia/Lists/Belgium%20Claims/Item/newifs.aspx?List=4bdc8fbe%2D6c94%2D449e%2D826b%2Da47856e9cefe&RootFolder=&Web=7fa8643f%2D860b%2D4a3a%2D9b9b%2D277074132d32
+NEW
+http://eusp.willistowerswatson.com/sites/adia/_layouts/15/listedit.aspx?List=41abf2b7%2D37b1%2D4713%2Db39b%2Da1c928cb6f35
+41abf2b7%2D37b1%2D4713%2Db39b%2Da1c928cb6f35
+border:1px solid
+
+France
+
+http://access.willis.com/site/adia/Lists/DMS%20France%20Claims/Item/newifs.aspx?List=b90c6183%2Df271%2D4bf7%2Da46d%2D0020f26ca512&RootFolder=&Web=7fa8643f%2D860b%2D4a3a%2D9b9b%2D277074132d32
+NEW
+http://eusp.willistowerswatson.com/sites/adia/_layouts/15/listedit.aspx?List=b6ea80bc%2D8168%2D403c%2D9716%2Dd4e79c58c553
+
+b6ea80bc%2D8168%2D403c%2D9716%2Dd4e79c58c553
+border:1px solid
+
+ITALY
+http://access.willis.com/site/adia/Lists/Italy%20Claims/Item/newifs.aspx?List=cc11972b%2De21b%2D4790%2D9324%2D21e044018155&RootFolder=&Web=7fa8643f%2D860b%2D4a3a%2D9b9b%2D277074132d32
+NEW
+http://eusp.willistowerswatson.com/sites/adia/_layouts/15/listedit.aspx?List=e53ed071%2Df89c%2D4f78%2D9081%2D0a559e210c05
+e53ed071%2Df89c%2D4f78%2D9081%2D0a559e210c05
+border:1px solid
+
+Luxumberg 
+http://access.willis.com/site/adia/Lists/Luxembourg%20Claims/Item/newifs.aspx?List=08358af8%2D0788%2D4d6f%2D94bc%2Dabb567f46897&RootFolder=&Web=7fa8643f%2D860b%2D4a3a%2D9b9b%2D277074132d32
+08358AF8-0788-4D6F-94BC-ABB567F46897
+NEW
+http://eusp.willistowerswatson.com/sites/adia/_layouts/15/listedit.aspx?List=5ca07f24%2D169e%2D4f7e%2D8208%2Dd91e206a6f98
+5ca07f24%2D169e%2D4f7e%2D8208%2Dd91e206a6f98
+
+Swizerland
+http://access.willis.com/site/adia/Lists/DMS%20Germany%20Claims/Item/newifs.aspx?List=0736fb25%2D4dee%2D4b31%2Db67a%2D6dfd42aa7931&RootFolder=&Web=7fa8643f%2D860b%2D4a3a%2D9b9b%2D277074132d32
+NEW
+http://eusp.willistowerswatson.com/sites/adia/_layouts/15/listedit.aspx?List=44ece5c3%2D632e%2D443e%2Dac48%2D7dbd5099d6e3
+44ece5c3%2D632e%2D443e%2Dac48%2D7dbd5099d6e3
+border:1px solid
+
+Images
+http://access.willis.com/site/chainbow/PublishingImages/documents.jpg
+http://access.willis.com/site/adia/SiteAssets/SiteAssets/Belguim%20Claims/documents.jpg
+http://access.willis.com/site/adia/SiteAssets/SiteAssets/Belguim%20Claims/documents.jpg
+
+http://eusp.willistowerswatson.com/sites/adia/SiteAssets/SiteAssets/Belguim%20Claims/documents.jpg
+
+http://eusp.willistowerswatson.com/sites/adia/SiteAssets/SiteAssets/Belguim%20Claims/documents.jpg
+http://eusp.willistowerswatson.com/sites/adia/SiteAssets/SiteAssets/documents.jpg
+
+==================
+OLD
+http://connect.willis.com/corp/skylineoperations
+NEW	
+http://nateamsites.willistowerswatson.com/sites/skylineoperations
+
+Domain Groups and users missing 
+====================
+11/09/2019
+http://info.willis.com/sites/RUCAThree
+NEW	
+https://online.willistowerswatson.com/sites/RUCAThree
+Term and condition web aprt
+
+not access to source sites to service account
+http://connect.willis.com/wna/FNAFR
+http://access.willis.com/site/UnitedAirlines
+http://connect.willis.com/nar/MCCWT
+
+Having issue
+https://nasp.willistowerswatson.con/sites/unitedairlines
+
+
+https://nasp.willistowerswatson.com/sites/unitedairlines/Certificates
+==========================
+OLD
+http://info.willis.com/sites/RUCAThree	
+NEW
+https://online.willistowerswatson.com/sites/RUCAThree
+Term and condition custom web part
+
+style="color: #e1a800;"
+style="color: #e1a800; font-size: 2em;"
+
+OLD
+http://info.willis.com/sites/RUCATwo
+NEW	
+https://online.willistowerswatson.com/sites/RUCATwo
+
+<Style>
+#sideNavBox {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 180px;
+    display:none !important;
+}
+
+#contentBox {
+    margin-right: 20px;
+    margin-left: 0px !important;
+    min-width: 703px;
+}
+
+</Style>
+================
+11 sep 2019
+ 7 top 5 sub site
+5 top completed,7 in progress
+
+total 88
+78  migration and issue fixing completed
+7+3 work in progress
+
+=====================
+
+Old URL
+http://partners.willis.com/cms ------term and condition web part- 2003 site
+
+http://partners.willis.com/connect/batsurvey----- term and condition web part- 2003 site
+http://partners.willis.com/connect/Rezidor----------2003 site
+http://partners.willis.com/connect/williscdr----------term and condition web part- 2003 site
+
+=====================
+http://access.willis.com/site/APACApp---------  term and condition web part- 2010 site[migration Done  and issue fixin done]
+
+=================
+http://access.willis.com/site/Ardian-----------2010  [migration done and issue fixing done]
+
+DMS UK Claims
+oLD
+http://access.willis.com/site/Ardian/Lists/DMS%20UK%20Claims/Item/newifs.aspx?List=c1e49d3f%2D0b92%2D4c93%2D81e2%2D97b837b1f2a9&RootFolder=&Web=078258d1%2De3bc%2D46d6%2Dbe55%2D08dc46af77b5
+http://eusp.willistowerswatson.com/sites/Ardian/_layouts/15/listedit.aspx?List=6afccef4%2D557d%2D43a3%2Daed8%2D5ba8476c67a2
+6afccef4-557d-43a3-aed8-5ba8476c67a2
+
+DMS france
+http://access.willis.com/site/Ardian/Lists/DMS%20France%20Claims/Item/newifs.aspx?List=957ec336%2D92d6%2D4fcd%2D946f%2D68ab582d4602&RootFolder=&Web=078258d1%2De3bc%2D46d6%2Dbe55%2D08dc46af77b5
+http://eusp.willistowerswatson.com/sites/Ardian/_layouts/15/listedit.aspx?List=113bb2fa%2Daf43%2D4ed4%2Da698%2D5ab74582de69
+113bb2fa-af43-4ed4-a698-5ab74582de69
+
+DMS Germany cliams
+http://access.willis.com/site/Ardian/Lists/DMS%20Germany%20Claims/Item/newifs.aspx?List=cc243fc7%2Df453%2D4075%2D8dec%2D2424a2bec6e9&RootFolder=&Web=078258d1%2De3bc%2D46d6%2Dbe55%2D08dc46af77b5
+http://eusp.willistowerswatson.com/sites/Ardian/_layouts/15/listedit.aspx?List=e813a855%2D187f%2D48f5%2Db4b8%2D27cd636e6ddf
+e813a855-187f-48f5-b4b8-27cd636e6ddf
+
+ITALy claims
+http://access.willis.com/site/Ardian/Lists/Italy%20Claims/Item/newifs.aspx?List=de577f4f%2D6e21%2D4e3e%2D9e3b%2D307ae3f31f57&RootFolder=&Web=078258d1%2De3bc%2D46d6%2Dbe55%2D08dc46af77b5
+http://eusp.willistowerswatson.com/sites/Ardian/_layouts/15/listedit.aspx?List=fbfa264b%2Ddd80%2D4561%2Da48f%2D527ff2224480
+fbfa264b-dd80-4561-a48f-527ff2224480
+
+border:1px solid black;
+
+Style Resource Readers 
+
+===============
+http://access.willis.com/site/argog360-----------term and condition web part- 2010 site[migration done and issue fixing done]
+style="color: #e1a800;"
+Style Resource Readers -added
+Mohan, Unice (INT\mohanun) - not resolved
+some users missing from Argo G360 Members
+
+==================
+http://access.willis.com/site/ATIF------------------term and condition web part- 2010 site[migration and issue fixing done]
+Style Resource Readers-added
+INT\w-sp-atif-c;INT\w-sp-atif-aplp-c; INT\w-sp-atif-aplp-r;-added
+EXT\w-sp-tw-atif-aplp-r;EXT\w-sp-atif-aplp-r;-added
+ Guieu, Valerie (INT\guieuva)-added
+Bucchini, Francois (INT\bucchinifr) -added
+INTERNAL\DAVID624 -added
+ Automotive Manufacturers and Dealers Members;-added
+Automotive Manufacturers and Dealers Visitors;-added
+Automotive Manufacturers and Dealers External Visitors;-added
+================
+
+http://access.willis.com/site/adia-------------already fixed
+
+New URL
+https://nasp.willistowerswatson.com/sites/cms 
+http://eusp.willistowerswatson.com/sites/batsurvey 
+http://eusp.willistowerswatson.com/sites/Rezidor 
+http://eusp.willistowerswatson.com/sites/williscdr 
+http://eusp.willistowerswatson.com/sites/APACApp-- done 
+http://eusp.willistowerswatson.com/sites/Ardian--done
+http://eusp.willistowerswatson.com/sites/argog360--done
+http://eusp.willistowerswatson.com/sites/atif ---done
+http://eusp.willistowerswatson.com/sites/adia-----already done
+
+
+===================
+
+16/09
+OLD
+http://partners.willis.com/connect/williscdr
+New	
+http://eusp.willistowerswatson.com/sites/williscdr 
+
+
+http://eusp.willistowerswatson.com/sites/batsurvey/2012/
+http://eusp.willistowerswatson.com/sites/batsurvey/2012backload/
+
+http://eusp.willistowerswatson.com/sites/batsurvey/2013Backload/
+http://eusp.willistowerswatson.com/sites/batsurvey/2013/
+
+
+===============
+
+
+
+===
+OLD[fixing done]
+http://access.willis.com/site/enterpriseriskfinance
+new	
+https://nasp.willistowerswatson.com/sites/enterpriseriskfinance 
+
+https://nasp.willistowerswatson.com/sites/enterpriseriskfinance/PublishingImages/announcements.jpg
+https://nasp.willistowerswatson.com/sites/enterpriseriskfinance/PublishingImages/contacts.jpg
+
+https://nasp.willistowerswatson.com/sites/enterpriseriskfinance/_layouts/15/viewlsts.aspx
+https://nasp.willistowerswatson.com/sites/enterpriseriskfinance/_layouts/15/RecycleBin.aspx
+
+Alicia O'Neal
+====================
+OLD
+http://access.willis.com/site/mbda[fixing done]
+new
+http://eusp.willistowerswatson.com/sites/mbda
+
+http://eusp.willistowerswatson.com/sites/mbda/Summary%20of%20Policies/Forms/AllItems.aspx
+
+http://eusp.willistowerswatson.com/sites/mbda/PublishingImages/point.jpg
+
+action items- items missing
+====================
+OLD
+http://access.willis.com/site/lcncps[migration done]	
+NEW
+http://eusp.willistowerswatson.com/sites/lcncps 
+
+===============
+OLD
+http://access.willis.com/site/GreenOak	[migration done]
+NEW
+http://eusp.willistowerswatson.com/sites/GreenOak 
+
+================
+OLD
+http://access.willis.com/site/GlobalEnergyEngineering [Migration done, fixing Done]
+NEW
+http://eusp.willistowerswatson.com/sites/GlobalEnergyEngineering 
+term and condition custom web part
+
+general technical information
+announcemtns
+
+Right panel
+planing and schedule
+internal policies adn procedures
+industry sectors
+
+home page css issue
+
+http://eusp.willistowerswatson.com/sites/GlobalEnergyEngineering/_layouts/15/viewlsts.aspx
+
+http://eusp.willistowerswatson.com/sites/GlobalEnergyEngineering/_layouts/15/RecycleBin.aspx
+
+Caras, Rolando INT\carasr 
+==================
+OLD
+http://access.willis.com/site/gazeley    [Migration done]
+NEW
+http://eusp.willistowerswatson.com/sites/gazeley
+
+===================
+OLD
+http://access.willis.com/site/gtechsurvey [Migration done]
+NEW	
+https://nasp.willistowerswatson.com/sites/gtechsurvey 
+=============
+OLD
+http://access.willis.com/site/g360Lloyds2014 [Migration done]
+NEW	
+http://eusp.willistowerswatson.com/sites/g36Lloyds2014
+==========================
+
+OLD
+http://access.willis.com/site/evansrandall    [Migration done]
+NEW	
+http://eusp.willistowerswatson.com/sites/evansrandall 
+=======
+OLD
+http://connect-eu.willis.com/WUKI/bidmlGB    [Migration done]
+NEW	
+http://euteamsites.willistowerswatson.com/sites/bidmlGB 
+==========
+OLD
+http://connect-eu.willis.com/corp/IM  [Migration in progress]
+NEW	
+http://euteamsites.willistowerswatson.com/sites/IM 
+
+=================
+OLD
+http://access.willis.com/site/gtechsurvey     [Fixing done]
+NEW	
+https://nasp.willistowerswatson.com/sites/gtechsurvey 
+
+https://nasp.willistowerswatson.com/sites/gtechsurvey/_layouts/15/viewlsts.aspx
+https://nasp.willistowerswatson.com/sites/gtechsurvey/_layouts/15/RecycleBin.aspx
+
+<span style="font-weight: 700;"><font size="1">
+
+=====
+
+OLD
+http://access.willis.com/sites/Alstonconstruction   [fixing done]  
+NEW	
+https://nasp.willistowerswatson.com/sites/Alstonconstruction
+
+custom web part Term and condition
+Custom Site Features
+Custom alert stapler
+Hide View All Site Content Link and Site Action
+
+
+style="color: #e1a800;"
+
+
+ Style Resource Readers 
+No presence information Agarwal, Rupali (INT\agarwalrup) 
+=====================
+old
+http://partners.willis.com/rbS  [fIXING IN progress]
+new
+http://eusp.willistowerswatson.com/sites/RBS 
+
+custom web part term and condition
+Custom features activated
+ADLookup.CreateItem.Properties
+Bamboo Chart Plus Web Part
+FieldMapping
+Questionnaire etc
+
+
+do change master page style-seattle
+and remove custom web part term and condition tag
+old
+masterurl/custom.master"
+
+Home page issue
+Logo missing
+domain group missing
+  RBS Guests 
+   RBS Contributors  
+ 
+
+==================
+OLD
+http://connect.willis.com/gs/gmiliability  [Fixing done]
+NEW	
+http://euteamsites.willistowerswatson.com/sites/gmiliability 
+
+
+<h3>
+    <a href="/sites/gmiliability/Aboutus">New Wins and Successes</a></h3>
+
+
+http://euteamsites.willistowerswatson.com/sites/gmiliability/_layouts/15/viewlsts.aspx
+http://euteamsites.willistowerswatson.com/sites/gmiliability/_layouts/15/RecycleBin.aspx
+Thomas, David A. (INT\thomasda);Treadwell, Colin R. (INT\treadwellcr) 
+
+
+====================
+w-sp-northeast-commercial-ADTLLC-contrib
+    INT\w-sp-northeast-commercial-contrib 
+
+  Catedral, Arnold 
+
+No presence information Johnson, Danielle 
+ Kidd, Kimberly 
+Martin, Adam
+
+==
+
+
+http://nateamsites.willistowerswatson.com/sites/OFDS/Country%20Templates/Croatia/0.%20Op%C4%87i%20uvjeti%20poslovanja_2019%20-%20(TOBA%20Croatian).pdf
+
+
+==========
+Migration Completed, This site is custom
+
+Custom Code :
+1) Custom Dashboard and custom webparts on home page not migrated
+
+
+total-163
+sent for UAT-70
+rework issue in UAT-4
+ready for cutover 31
+
+
+
+============================
+
+top navigation
+subsites
+infopath
+site features
+site collection feature
+custom webparts/ terms & condition,slider webpart, filter webparts.
+list with 5000+ records, site contents 
+=================
+4 oct
+http://access.willis.com/site/Correspondents	
+https://nasp.willistowerswatson.com/sites/Correspondents
+
+=================
+Send mail for below sites
+http://access.willis.com/site/EnergyExchange	
+http://eusp.willistowerswatson.com/sites/EnergyExchange
+
+SharePoint Sites for Testing (GB -Kirstie)
+
+make entry into overall sheet
+and list also
+tracker and task list
+
+
+04/10 Bala: Migration Completed, shared with customer for testing
+
+07/10 Bala: Migration Completed,ready for customer testing.
+
+04/10 Bala: Migration In Progress
+
+===================
+
+7/10/2019
+OLD [completed]
+http://access.willis.com/site/cacolombia/AFFINITY
+NEW	
+https://nasp.willistowerswatson.com/sites/AFFINITY 
+
+https://nasp.willistowerswatson.com/sites/AFFINITY/_layouts/15/viewlsts.aspx
+
+https://nasp.willistowerswatson.com/sites/AFFINITY/_layouts/15/RecycleBin.aspx
+
+	
+Cuantas Affinity Colombia External Visitors
+
+Cuantas Affinity Colombia External Members
+
+
+================
+OLD [completed]
+http://access.willis.com/site/cacolombia/AFFINITY/AFFINITY
+NEW
+https://nasp.willistowerswatson.com/sites/AFFINITY1 
+
+https://nasp.willistowerswatson.com/sites/AFFINITY1/_layouts/15/viewlsts.aspx
+
+https://nasp.willistowerswatson.com/sites/AFFINITY1/_layouts/15/RecycleBin.aspx
+
+Castillo, Andres
+
+=============
+OLD [completed]
+http://access.willis.com/site/cacolombia/AFFINITY/AFFINITY_
+NEWhttps://nasp.willistowerswatson.com/sites/AFFINITY02 
+
+---------------
+OLD [completed]
+http://access.willis.com/site/cacolombia/ALD
+NEW	
+https://nasp.willistowerswatson.com/sites/ALD 
+
+https://nasp.willistowerswatson.com/sites/ALD/_layouts/15/viewlsts.aspx
+
+https://nasp.willistowerswatson.com/sites/ALD/_layouts/15/RecycleBin.aspx
+
+Cuantas Affinity Colombia External Visitors
+Cuantas Affinity Colombia External Members
+===============
+OLD[fixing in progress]
+http://access.willis.com/site/cacolombia/BANCOBOGOTA	
+NEW
+https://nasp.willistowerswatson.com/sites/BANCOBOGOTA 
+
+https://nasp.willistowerswatson.com/sites/BANCOBOGOTA/_layouts/15/viewlsts.aspx
+https://nasp.willistowerswatson.com/sites/BANCOBOGOTA/_layouts/15/RecycleBin.aspx
+
+
+
+INT\sanchezalm;	EXT\bco.castroa;EXT\wco.arangoa;EXT\wco.saenza;	INT\w-sp-cacolombia-c;EXT\bco.carvajalk
+;EXT\cpn.mejiap
+
+INT\w-sp-cacolombia-r;	EXT\wco.quintanaql;INT\benitezro;
+
+Cuantas Affinity Colombia External Visitors
+Cuantas Affinity Colombia External Members
+
+
+07/10 Bala: Migration Completed,ready for customer testing.
+
+-----
+total
+240
+39 need to be create
+actually received 188
+new url showing 201
+
+completed-174
+corp IT-10
+in prgress-1
+migration 2019-3
+not started-13
+
+====================
+9/10/2019
+OLD [completed]
+http://access.willis.com/site/cacolombia/BBVA
+NEW	
+https://nasp.willistowerswatson.com/sites/BBVA 
+
+style="color: #e1a800;"
+
+https://nasp.willistowerswatson.com/sites/BBVA/_layouts/15/viewlsts.aspx
+
+https://nasp.willistowerswatson.com/sites/BBVA/_layouts/15/RecycleBin.aspx
+
+INT\castilloan;INT\carvajalke;
+
+INT\sanchezalm;	EXT\bco.castroa;EXT\wco.arangoa;EXT\wco.saenza;	INT\w-sp-cacolombia-c;EXT\bco.carvajalk
+;EXT\cpn.mejiap
+
+INT\w-sp-cacolombia-r;	EXT\wco.quintanaql;INT\benitezro;
+
+Cuantas Affinity Colombia External Visitors
+Cuantas Affinity Colombia External Members
+
+======================
+OLD [fixing in progress]
+http://access.willis.com/site/cacolombia/BOGOTA	
+NEW
+https://nasp.willistowerswatson.com/sites/BOGOTA 
+
+https://nasp.willistowerswatson.com/sites/BOGOTA/_layouts/15/viewlsts.aspx
+https://nasp.willistowerswatson.com/sites/BOGOTA/_layouts/15/RecycleBin.aspx
+
+----------
+--
+sent for UAT
+GB-41
+NA-19
+WE-5
+International-9
+
+Rework
+GB-3
+NA1
+
+Ready for cutover-50
+GB-30
+NA-20
+
+--------------
+
+GB-74
+NA-40
+WE-5
+International -9
+
+mail total 175
+TOtal-128
+not sent -41
+on hold -6
+
+===
+Total 188 sites received
+181 testing and fixing completed
+3 pending
+3 custom
+1 in progress
+
+today
+13 sites
+5 shardul
+5 saloni
+3 bala
+
+sent mail for 38 new sites
+===============
+http://connect.willis.com/corp/ClaimConsultingServices/RPO--No fix
+http://connect.willis.com/corp/CRBTBusiness--no fix
+http://connect.willis.com/corp/MarineMar--no fix
+http://connect.willis.com/corp/skylineoperations--no fix
+http://connect.willis.com/gs/ProjectElba--fixes
+http://connect.willis.com/nar/MCCWT--no fix
+http://connect.willis.com/wna/pcg--no fix
+
+
+================
+10/10/2019
+OLD [Pending-custom code]
+http://partners.willis.com/connect/wcnbrazil/shaftesbury
+New
+http://eusp.willistowerswatson.com/sites/shaftesbury
+
+http://eusp.willistowerswatson.com/sites/shaftesbury/PublishingImages/apartment.gif
+
+/sites/shaftesbury/PublishingImages
+
+
+http://eusp.willistowerswatson.com/sites/shaftesbury/_layouts/15/listedit.aspx?List=b40dfe55%2Df006%2D46aa%2D93aa%2Da462acb47080
+
+b40dfe55-f006-46aa-93aa-a462acb47080
+
+http://eusp.willistowerswatson.com/sites/shaftesbury/_layouts/15/listedit.aspx?List=b6c5f3bb%2Dc62e%2D4ed1%2Da337%2D39a957838698
+
+b6c5f3bb-c62e-4ed1-a337-39a957838698
+
+SA - Gilbert Abueg
+
+
+NotifychangespropertyForm list new form is showing issue
+ClaimsNotif  list new form is showing issue
+Custom Form, validation on form
+
+=====
+OLD[completed]
+http://connect.willis.com/wih/asia
+New	
+http://apteamsites.willistowerswatson.com/sites/asia
+
+http://apteamsites.willistowerswatson.com/sites/asia/_layouts/15/viewlsts.aspx
+
+http://apteamsites.willistowerswatson.com/sites/asia/_layouts/15/RecycleBin.aspx
+==========
+OLD[pending]
+
+http://connect.willis.com/corp/NewPB_Tracker
+NEW	
+http://apteamsites.willistowerswatson.com/sites/NewPB_Tracker
+
+workflow not migarted
+A&H,terririsom,construction
+new form,display form,edit form giving warning -error occured querring data source
+
+==========
+OLD[completed]
+http://access.willis.com/site/pidrnf/Manchester	
+new
+http://eusp.willistowerswatson.com/sites/Manchester
+
+general docs
+http://access.willis.com/site/pidlibrary/generaldocs/SitePages/Home.aspx
+news
+http://access.willis.com/site/pidlibrary/SitePages/Home.aspx
+links
+http://access.willis.com/site/pidlibrary/links/SitePages/Home.aspx
+
+contacts
+http://access.willis.com/site/pidlibrary/contacts/SitePages/Home.aspx
+UP to PID
+http://access.willis.com/site/pidrnf/SitePages/Home.aspx
+
+
+http://access.willis.com/site/pidlibrary/SitePages/Home.aspx
+
+http://eusp.willistowerswatson.com/sites/Manchester/_layouts/15/viewlsts.aspx
+
+=====
+https://nasp.willistowerswatson.com/sites/Leggett/SitePages/Home.aspx
+
+Remove Actions
+            Remove Calendar
+            Remove Submissions
+            Remove Willis PUblications
+            Remove Risk Management Tools
+            Remove Foreign XLC USA
+
+**
+
+==
+14 oct
+OLD[fixing in progress]
+http://access.willis.com/site/areva/countryinformation	
+NEW
+https://nasp.willistowerswatson.com/sites/countryinformation 
+
+https://nasp.willistowerswatson.com/sites/countryinformation/_layouts/15/viewlsts.aspx
+
+
+
+https://teams.microsoft.com/_#/files/General?threadId=19%3A17580814c97248bf831fcf025a8232ef%40thread.skype&ctx=channel&context=SharePoint%2520Docs%252FDocumentation
+
+https://teams.microsoft.com/_#/files/General?threadId=19%3A17580814c97248bf831fcf025a8232ef%40thread.skype&ctx=channel&context=SharePoint%2520Docs%252FDocumentation
+
+harryd@willis.com
+
+style="color: #e1a800;"
+
+
+
+style="color: #ADD8E6;"
+
+/sites/bancolombia/Lists/InformeFacturacion/Allitemsg.aspx
+
+https://nasp.willistowerswatson.com/sites/bancolombia/Lists/InformeFacturacion/Allitemsg.aspx?#InplviewHashbc062171-8436-4076-8180-cfca8447964d=ShowInGrid%3DTrue
+
+https://nasp.willistowerswatson.com/sites/bancolombia/Lists/InformeFacturacion/Allitemsg.aspx?#InplviewHashbc062171-8436-4076-8180-cfca8447964d=
+
+
+This is ready for testing to check the structural aspect is good.
+On content we will do a synch up once we hear that it is structurally identical to the old site.
+
+aliki.olstead@WillisTowersWatson.com
+sue.whiting@WillisTowersWatson.com 
+http://access.willis.com/site/MastersofMarine2015 
+
+
+harryd@willis.com
+manchesterr and edinburg sites
+
+Thain, Gavin <Gavin.Thain@WillisTowersWatson.com>; Lawson, Anna <Anna.Lawson@WillisTowersWatson.com>; Stratford, Chris <Chris.Stratford@willistowerswatson.com>; ATOS_CRB_SharePointTeam <ATOS.CRB.SharePoint.Team@willistowerswatson.com>
+15 oct
+
+mail Sent Count
+160
+GB-94
+NA-33
+WE-5
+International-28
+
+http://eusp.willistowerswatson.com/sites/MMMServices
+\/sites/mapac/SiteAssets/left_img.jpg
+sharepoint designer 2013-64 bit
+https://www.microsoft.com/en-us/download/details.aspx?id=35491
+sharepoint sdesigner 2010-64 bit
+https://www.microsoft.com/en-us/download/details.aspx?id=24309
+infopath designer 2013-64 bit
+https://www.microsoft.com/en-us/download/details.aspx?id=48734
+
+
+Kimberly.Miele@WillisTowersWatson.com
+01473 223640
+
+==========================
+OLD {completed}
+http://access.willis.com/site/willisargentinaops/HCB	
+New
+https://nasp.willistowerswatson.com/sites/HCB 
+
+
+https://nasp.willistowerswatson.com/sites/HCB/_layouts/15/viewlsts.aspx
+
+style="color: #ADD8E6;"
+#1E90FF
+style="color: #1E90FF"
+
+https://nasp.willistowerswatson.com/sites/HCB/_layouts/15/viewlsts.aspx
+==============
+old[Completed]
+http://access.willis.com/site/carrier/default.aspx 
+NEW
+https://nasp.willistowerswatson.com/sites/carrier 
+
+http://access.willis.com/site/CARRIER/_catalogs/theme/Themed/DE74CC4C/corev4-8A0ABD2F.css?ctag=1
+
+
+<style>
+.ms-WPBorder {
+    border-color: #66A786;
+    border-width: 1px;
+    border-style: solid;
+}
+</style>
+
+https://nasp.willistowerswatson.com/sites/carrier/_layouts/15/viewlsts.aspx
+
+style="color: #e1a800;"
+
+https://nasp.willistowerswatson.com/sites/carrier/em/_layouts/15/viewlsts.aspx
+===
+html
+
+https://nasp.willistowerswatson.com/sites/ClaimsAnalysis/test%20library/Forms/AllItems.aspx
+
+Sharepoint downloads .aspx instead of rendering the page
+
+https://nasp.willistowerswatson.com/sites/ClaimsAnalysis/CIBC/Forms/AllPages.aspx
+
+
+++++++++++client issue
+Kimberly.Miele@WillisTowersWatson.com
+INT\mielek
+
+http://nateamsites.willistowerswatson.com/sites/pcg
+not able to upload docs
+
+Pc managment library and production management
+
+Query from customer
+http://access.willis.com/site/GlobalEnergyEngineering
+
+http://nateamsites.willistowerswatson.com/sites/pcg
+http://access.willis.com/site/MastersofMarine2015
+
+Read, Adrian S. <Adrian.Read@WillisTowersWatson.com> 
+
+
+
+conevr html to aspx
+OLD URL
+http://access.willis.com/site/ClaimsAnalysis
+New
+https://nasp.willistowerswatson.com/sites/ClaimsAnalysis/CIBC/Forms/AllPages.aspx
+
+19 oct
+SharePoint Sites for Testing (WE- Andren )
+
+
+Migration Completed, This site is custom,Custom Dashboard and custom webparts on home page not migrated.
++++++++++++++++++++++++
+
+http://euteamsites.willistowerswatson.com/sites/marinemar
+http://euteamsites.willistowerswatson.com/sites/marinemar
+The below site was moved to the UK.  The correct URL i
+
+http://eusp.willistowerswatson.com/sites/Hullil/Pages/2017-Year-of-Account.aspx
+
+Style Resource Readers 
+
+===
+Hulil top navigation need to remove aspx
+change font and color
+
+--
+https://nasp.willistowerswatson.com/sites/ClaimsAnalysis/CIBC/Forms/AllPages.aspx
+==
+
+send email
+generate certificate
+when you create new certi then old one will be archive
+
+++++++
+25 oct
+
+http://connect.willis.com/wna/CAU
+http://nateamsites.willistowerswatson.com/sites/CAUhttp://connect.willis.com/wna/TPA
+http://nateamsites.willistowerswatson.com/sites/TPA
+checked and links added to claimconsulting services
+
+==
+
+for exposure
+write css to hide unit field
+
+for integrated site
+we need remove target audience
+
+for exposure
+write css to hide unit field
+
+for integrated site
+we need remove target audience
+=====
+got confirmation from bussines
+
+GB-50
+NA-43
+WE-3
+International-5
+UK-1
+Partner-1
+total-102
+==================
+fix
+http://vecrs-i-ws2:8090/sites/Compliance	http://nateamsites.willistowerswatson.com/sites/ComplianceVenezuela
+
+migrate
+http://vecrs-i-ws2:17114/sites/proyectos	
+http://nateamsites.willistowerswatson.com/sites/proyectos
+ ================
+1 nov
+
+http://vecrs-i-ws2:8090/sites/Compliance[fixing completed]
+http://nateamsites.willistowerswatson.com/sites/ComplianceVenezuela
+
+http://vecrs-i-ws2:17114/sites/proyectos[fixing completed]
+http://nateamsites.willistowerswatson.com/sites/proyectos
+
+http://vecrs-i-ws2:8090/sites/DocIntranet[fixing completed]
+http://nateamsites.willistowerswatson.com/sites/DocIntranet
+
+http://vecrs-i-ws2:46805/sites/Solicitudes
+http://nateamsites.willistowerswatson.com/sites/Solicitudes
+content miss match-Revisiones Diarias
+
+
+http://vecrs-i-ws2:17114/sites/centrodeservicios
+http://nateamsites.willistowerswatson.com/sites/centrodeservicios
+
+redirection code IMP
+http://usermanagedsolutions.com/SharePoint-User-Toolkit/Pages/Page-Redirect.aspx
+
+How to configure key filter in sharepoint*** wordings library sites issue
+https://www.c-sharpcorner.com/UploadFile/40e97e/how-to-enable-key-filter-for-sharepoint-list-or-library/
+
+\\usnsh-i-fs101\dept\nsh\CRB-offshore
+
+style="color: #e1a800;"
+
++919890417959
+
+http://<site URL>/_layouts/closeConnection.aspx?loginasanotheruser=true
+============
+Jarandeba_ADM
+Password@1234
+======
+service account
+svc_crbspmigrate_p
+P_y/]qjsZy4K.DQ[bt
+
+
+khandelwalsp_adm
+willis@1234
+
+mogheVi_ADM
+Welcome@1234
+
+E12-IT-SPMG001D 
+int\kantra_adm
+Helloraj@123 
+
+N11-CB-FPVD017P using with jarandeba_adm
+N11-IT-SPUT005P  using with SVC account
+E12-IT-SPMG001D
+E12-CB-SPMG002D  using with ADM Account
+
+E12-CB-SPMG002D- INT\jarandeba_adm  
+license-F4951DA2-6E73-41BD-AF26-718A7EEEA372 
+machine code-2AB6-D23A-5C81-759A-C8C9-722C-AB56-6904
+==
+
+DL
+INT\w-sp-crb-migration
+===
+Team – Please make a note on the Business Engagement point of contact for each geography:
+
+1.	International: Matt Davy/Luis Reyes
+2.	GB: Anna Lawson/Chris Stratford
+3.	Western Europe: Vikas Puri/James Webber
+4.	North America: Rob Fauser
+
+Pincher, Nathan Nathan.Pincher@willistowerswatson.com
+
+\\usnsh-i-fs101\dept\nsh\CRB-offshore\DMA_Reports
+===*****************************
+Eclipse DM tracking List
+https://euteamsites.iat.willistowerswatson.com/sites/EclipseDMtesting/Lists/Eclipse%20Migration/AllItems.aspx
+---------------------------------------------------
+
+Here is the link for all complicated lists of Corp IT ( sharepoint lists)
+https://wtwonline.sharepoint.com/sites/Sharepoint2016Upgrade/Lists/LW2008Sharepoint%20Sites/AllItems.aspx 
+
+Willis Web Mail
+https://mail.us.willis.com/owa/# 
+
+KETO
+https://willistowerswatson.ketoapps.com/#676e9f8f
+
+2 way authentication
+https://account.activedirectory.windowsazure.com/r/#/profile
+
+
+workstation access
+
+https://access.willistowerswatson.com/Citrix/FlexibleProvisioningWeb/ 
+service now
+https://willistowerswatson.service-now.com/navpage.do 
+how to raise ticket for new site
+service now-catalogs>it request catalog>intranet application>sharepoint request
+ how to close the change request
+https://willistowerswatson.service-now.com/servicecentral?id=kb_article_view&sysparm_article=KB0014604
++++++++++++++++++++++++++++++++++RITM++++++++++++++++++++++
+https://www.solveyourtech.com/how-to-schedule-sending-an-email-in-outlook-2010/
+
+his is the RITM raised to create 3 target sites for http://willplacedm.willis.com/WillPlace/01-RITM0650165
+ 
+14 JAn change-CHG0076593.
+
+Change ticket 21 JAN
+CHG0076970
+**************
+N11-CB-FPVD017P
+matt pinnel
+
+svc_crbspmigrate_p” 
+N11-IT-SPUT005P
+
+E12-IT-SPMG001D
+
+
+E12-IT-SPMG001D 
+int\kantra_adm
+Helloraj@123 
+ 
+
+
+Note:- External users facing access issues should be advised to type EXT\User ID & their old password to login.
+
+27 feb cutover sites
+CHG0079336
+
+Cut over of sites to newer version of SharePoint
+new change for 10th march
+ - CHG0080137
+
+cutover for 17 march
+CHG0080615
+
+Cutover for 20 march
+CHG0080956
+
+Cutover for 24 march
+CHG0081030
+
+Move sites from CRB to Corp IT
+REQ0707330
+RITM0749161
+
+31st March
+CHG0081504
+
+3rd April UKMI
+CHG0081508
+
+3rd April for 6 sites
+CHG0081741
+
+13th April 1 site International
+CHG0082111
+
+24 th April lockdown UKMI sites
+RITM0773255
+
+lock down four sites-
+RITM0774761
+
+lock down GWS and R_GWS
+RITM0775436
+
+WOL site lock RITM
+RITM0783863
+
+lock the 3 sites 12 may
+ RITM0784799
+19th May change 1 site
+Change Number -CHG0083735
+
+22nd may single site-ITB Tracker
+CHG0084126
+
+5th June 1 site Corporate Compliance
+CHG0084408
+ExpertiseBrokersArgentinaVida
+RITM0797587
+
+15th june -expertise broker argentina
+CHG0085255
+
+credit writeback-16 june
+CHG0085177
+
+decomm the 4 sites
+RITM0809818 
+
+Decomm TPADM site
+RITM0811453
+
+MDIRequest 23 rd june
+CHG0085652
+
+unlock mdirequest
+RITM0818828
+lock MDI
+RITM0818843
+
+
+MDI request readonly
+RITM0820897
+
+MDI request lock RITm
+RITM0822236
+
+8th july Integrated site
+CHG0086445
+
+20th july Accidentclaimform change request
+CHG0086933
+
+RITM raised for eclipse qa sites access 2019-2020 
+RITM0846904
+
+RITM raised for AUCRM 29th July postponed to 30th july find below change
+CHG0087839
+RITM raised for AUCRM 30th July
+CHG0088060
+RITTMo SOFIntrane 20 aug
+RITM0869783
+
+24th NOV willisargentinaops
+CHG0093993
+
+25th NOV willisargentinaops
+CHG0094231
+
+Eclipse DM GB sites 4dec and 5th DEC
+CHG0094310
+
+New Normal change for eclipse DM
+CHG0094433
+
+
+
+
+
+Eclipse applications
+ Eclipse, Claim and Origin.
+
+Gentle reminder…below sites will be migrated tonight.
+service desk
+
+DL-Manila-ServiceDesk-ALL <DL-Manila-ServiceDesk-ALL@willistowerswatson.com> 
+Scripts by Rajani
+Script Path: \\usnsh-i-fs101\dept\nsh\CRB-offshore\DMA_Reports\SharePoint Files\Script\MigrateSite\01 InitialMigration
+
+Script Path: \\usnsh-i-fs101\dept\nsh\CRB-offshore\DMA_Reports\SharePoint Files\Script\MigrateSite\02 DeltaMigration
+
+Audit Report Script: \\usnsh-i-fs101\dept\nsh\CRB-offshore\DMA_Reports\SharePoint Files\Script\AuditReport
+
+Please find below link to install active directory console on VDI.
+https://www.technipages.com/windows-install-active-directory-users-and-computers
+
+Syntel OT GIO Infrastructure Integration OCS 
+
+If you got target connect ca not connect error need to put below code before target url connection
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls, [Net.SecurityProtocolType]::Tls11, [Net.SecurityProtocolType]::Tls12, [Net.SecurityProtocolType]::Ssl3
+[Net.ServicePointManager]::SecurityProtocol = "Tls, Tls11, Tls12, Ssl3"

@@ -1,0 +1,10 @@
+click on implement>>then go to Ctask>>right click>.close tasks
+
+change must be moved to Review state by clicking the “Review” button. 
+The system will display an error message if the “Review” button is clicked while any CTASKs are open.
+
+Click on the Closure Information tab.
+
+Enter a close code from the dropdown selection (Successful)
+
+close

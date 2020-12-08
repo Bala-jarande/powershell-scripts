@@ -1,0 +1,29 @@
+refere this change--CHG0080137
+
+Go to Service now>>type>>change>>then click >>create New>>Ctandard>>then select>>Global Infrastructure Integration - Sharepoint decommission site>>then in >>configuration Item>> sharepoint - CRB
+
+in Description>>paste sites whci are going for cutover>>
+
+select supress alert>>No
+
+Risk configuration>>)easy within 2)30 mins 3)yes
+
+then click on calculation of risk
+
+then schedule date and time>>  GB date: time 23:00:00 end date next day:time 17:00:00
+
+then click on affected location>>edit>>global
+
+then add change task>>
+CRB>decomm>global>>assign to amol>>Migrate the content and synch up data
+
+Check permissions
+Check Access
+
+
+then create new task
+assign to >>collaboration global>>prashant>>description>>please lock the sites 
+if business have any concern, you have to make site read only or unlock.
+>>submit
+
+then attchm>>sheet>>schedule
