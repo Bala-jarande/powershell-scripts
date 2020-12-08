@@ -1,0 +1,576 @@
+service account
+svc_crbspmigrate_p
+P_y/]qjsZy4K.DQ[bt
+
++++++++++++++++++++++++++++Initial Migration+++++++++++++++++++++++++++++++++++
+Copy Content Structure>>paste source>>other user>>svc crb>>next
+Paste target url>>next>>select both url>> select option>>select merge with option>>then click on mapping>>
+search for SVC crb>> drga and drop also 
+mapp group like search 2012 members in left drag drop then search 2012 members drag drop 
+like wise do for owners and visitors group as well 
+>>save>> then Start Copy
+-----------------------------------------
++++++++++++++++++++++++++Delta Migration++++++++++++++++++++++++++++++++++++++++++
+1]run the last modified script then u will get the list of libraries on which we need to do delta migrate 
+2]Run the Delta Script for respective libraries which got from Last modifed
+3]then Run the item comparision Site level scripot there you will get the comparision of count and 
+from which target library fileneed to delete the and which to add
+4]then run the deletion script
+5]run the item comparision for reverification of the count
+
+
+==========================   GetLastModifiedDetails - Comaprison SCript
+why do we run GetLastModifiedDetails - Comaprison this script and how
+when we do incremental source files migrated to target , initially we were checking the target files date modied and other metadata manually matched to source
+to avoid manuall check we have written this script,
+how to run -out put of the get last modidified script file we taken as input to this script
+we have make name of input file as "LastModifiedBy" and put it in the folder "LastUpdatedReport"
+in the input file make sure all month and list title should be appended with zero where you found sing digit entry
+
+you will get out put log in the LastUpdatedReport folder if source and target date modified and eclipse ID, and file name is 
+we have to check target file name,browse the target site in browser and check file last modified ,eclipse ID should match target if not then delete the file and delta for the same file
+different then we have to run Delta again
+
+--------------------------------Delta Process
+
+Run Last Modified Script to get updated libraries>>>>\GetLastModifedDetails\GetLastModifiedDetails.ps1
+Run List level incremental migration>>\Eclipse Delta Migration Script\EclipseDeltaMigScriptInc.ps1
+Run Item Comparison Script to check item differences>>\Item Comparison\ItemComparison_SiteLevel_WithMultipleFields.ps1
+Run Last Modified comparison script>>\GetLastModifedDetails\GetLastModifiedDetails - Comaprison.ps1
+
+
+------------------------------------------------------------------------------
+http://eclipsedm.willis.com/2012/05 
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201205
+
+http://eclipsedm.willis.com/2012/09	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201209
+
+http://eclipsedm.willis.com/2012/10	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201210
+
+-------------------
+http://eclipsedm.willis.com/2013/06	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201306
+
+---------------------Aug 14
+http://eclipsedm.willis.com/2013/08	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201308
+
+http://eclipsedm.willis.com/2014/08	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201408
+
+
+http://eclipsedm.willis.com/2014/05	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201405
+------------------------15 Aug
+
+http://eclipsedm.willis.com/2014/07	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201407
+
+---------------------17 Aug
+http://eclipsedm.willis.com/2014/06	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201406
+
+http://eclipsedm.willis.com/2015/05	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201505
+
+-------------------------------18 Aug
+http://eclipsedm.willis.com/2016/05	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201605
+
+-------------------------------------20 Aug
+
+http://eclipsedm.willis.com/2016/07	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201607
+
+-----------------------------------------17 Sept
+
+http://eclipsedm.willis.com/2017/05	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201705
+
+-----------------------------------------18 Sept
+http://eclipsedm.willis.com/2017/08	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201708
+
+--------------------------21 Sept
+http://eclipsedm.willis.com/2018/09	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201809
+
+-----------------------22 Sept
+http://eclipsedm.willis.com/2018/12	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201812
+
+-----------------------------7 OCT
+
+http://eclipsedm.willis.com/2019/08	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201908
+
+------------------6 NOV
+
+http://access.willis.com/site/willisargentinaops	
+https://nasp.willistowerswatson.com/sites/willisargentinaops
+
+
+
+Siniestros 
+Siniestros WSM/LP 
+Siniestros VIDA - MASIVOS 
+
+
+8705005
+8705005
+8434142
+8434142
+9067104
+9067104
+6682100
+6682100
+6709028
+6709028
+8182108
+8182108
+8520164
+8520164
+7162075
+7162075
+
+Siniestros TCC
+
+Start  -Iniciar
+comienzo
+ cancel- cancelar
+
+========================5 DEC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+some time one or more docs not migrated gort erro>>just check that on source doc is available>>
+go to tool>>setting>.make normal mode>>then come and migrate agin that library or that doc >>copy in newer>>start copy
+-------------------
+C:\Users\jarandeba_adm\Desktop
+
+
+http://eclipsedm.willis.com/2017/05	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201705
+
+http://eclipsedm.willis.com/2017/06	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201706
+
+
+http://willdoc.iat.willis.com/Sites/5027900/2008-1059
+https://wtwonlineeu.sharepoint.com/sites/tctgf_corp-it_migration
+
+---------------------------------*************************
+http://willdoc.iat.willis.com/Sites/2456301/2009-1076
+
+Target same for all
+https://wtwonlineeu.sharepoint.com/sites/tctgf_corp-it_migration
+
+balasaheb.jarande@willistowerswatson.com
+
+
+=======================
+http://eclipsedm.willis.com/2013/01 
+4            
+http://eclipsedm.willis.com/2016/03
+15
+
+
+
+
+
+
+
+
+
+
+http://eclipsedm.willis.com/2012/11	
+https://euteamsites.willistowerswatson.com/Sites/EclipseDM201211
+
+
+Old site: http://access.willis.com/site/willisargentinaops
+New Site: https://nasp.willistowerswatson.com/sites/willisargentinaops
+
+Old site: http://access.willis.com/site/willisargentinaops
+New Site: https://nasp.willistowerswatson.com/sites/willisargentinaops
+
+http://connect-eu.willis.com/corp/IN_Aands_timetrack/Lists/EPCC/BatchProcess.aspx  
+Button-EPCC
+if ID ref less than 1 set ID ref to Current item ID
+check the condition then copy current item to EPCC tracking changes list
+
+http://connect-eu.willis.com/corp/IN_Aands_timetrack/Lists/Express%20Claims/BatchProcess.aspx  
+Button- express claims
+check the condition then copy current item to express claims tracking changes list
+
+
+http://connect-eu.willis.com/corp/IN_Aands_timetrack/Lists/FAJS%20%20HG%20New/BatchProcess.aspx  
+Button-FAJS
+check the condition then copy current item to FAJS & HG track changes list
+
+http://connect-eu.willis.com/corp/IN_Aands_timetrack/Lists/Finex%20New/BatchProcess.aspx  
+Button- Finex
+check the condition if condition matched then copy current item to Finex New tracking changes list
+
+
+http://connect-eu.willis.com/corp/IN_Aands_timetrack/Lists/NonECS%20Aerospace/BatchProcess.aspx  
+Button-Non-ECS Aerospace
+check the condition if condition matched then copy current item to NonECS Aerospace-track changes list
+
+http://connect-eu.willis.com/corp/IN_Aands_timetrack/Lists/NonECS%20Marine/BatchProcess.aspx  
+Button-Non-ECS Marine
+check the condition if condition matched then copy current item to Non-ECS Marine tracking changes list
+
+
+Singapore Retail Claims
+Button-SGClaims
+check the condition if condition matched then copy current item to singapore retail tracking changes list
+
+ECS Transportation List 
+Button-track changes- ECS transportation
+check the condition if condition matched then copy current item to ECS transportation tracked changes list
+
+-----------------
+
+C:\Users\jarandeba_adm\Desktop\Eclipse Scripts\Item Comparison
+July 2020
+http://eclipsedm.iat.willis.com/2020/07
+https://euteamsites.iat.willistowerswatson.com/Sites/EclipseDM202007 
+
+http://eclipsedm.iat.willis.com/2020/08
+https://euteamsites.iat.willistowerswatson.com/Sites/EclipseDM202008
+
+
+http://connect-eu.willis.com 
+http://connect-eu.willis.com/corp/IM 
+http://connect-eu.willis.com/corp/IN_Aands_timetrack 
+http://connect-eu.willis.com/corp/sevt 
+http://connect-eu.willis.com/corp/sfbt 
+http://connect-eu.willis.com/intl/gws 
+http://connect-eu.willis.com/intl/r_gws 
+http://connect-eu.willis.com/sites/gsi 
+http://connect-eu.willis.com/sites/Office_Viewing_Service_Cache 
+http://connect-eu.willis.com/ukdataref 
+http://connect-eu.willis.com/ukmidata 
+http://connect-eu.willis.com/WUKI/bidmlGB 
+http://connect-eu.willis.com/wuki/BQM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 oct 2019-Tony Brandolino/Barbara Sage
+http://partners.willis.com/epic
+https://nasp.willistowerswatson.com/sites/epic/default.aspx
+
+SitListItemCount.csv
+http://connect.willis.com/wna/integrated	
+http://nateamsites.willistowerswatson.com/sites/integrated
+
+
+http://eclipsedm.dev.willis.com/2020/01
+http://eclipsedm.dev.willis.com/sites/eclipsedm202001
+
+eclips
+
+http://eclipsedm.qa.willis.com/2019/11
+https://euentapps.iat.willistowerswatson.com/sites/eclipsemd201911
+
+http://eclipsedm.qa.willis.com/2020/01
+https://euentapps.iat.willistowerswatson.com/sites/eclipsemd202001
+
+http://eclipsedm.qa.willis.com/2020/04
+https://euentapps.iat.willistowerswatson.com/sites/eclipsemd202004
+
+
+
+
+
+
+
+DLL files
+C:\Program Files\Common Files\microsoft shared\Web Server Extensions\15\ISAPI
+scripts store
+C:\Users\jarandeba_adm\Desktop\Script\MigrateSite\01 InitialMigration\
+
+last migrating site
+Source Site:  http://connect2.willis.com/app/CRMANZ/blueboneentertainmentptyltdcli010486
+
+
+
+<%@ Register TagPrefix="WpNs1" Namespace="Microsoft.TeamFoundation.WebAccess.WebParts" Assembly="Microsoft.TeamFoundation.WebAccess.WebParts, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"%>
+<%@ Register TagPrefix="WpNs0" Namespace="Microsoft.Office.Excel.WebUI" Assembly="Microsoft.Office.Excel.WebUI, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"%>
+<%@ Register TagPrefix="dsc" Namespace="Microsoft.TeamFoundation.SharePoint.Dashboards.Controls" Assembly="Microsoft.TeamFoundation.SharePoint.Dashboards.Controls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" %>
+Unknown server tag 'dsc:NewExcelReportButton'.
+
+http://connect2.willis.com/tfs/Willis/Carrier Integration Management	
+http://nateamsites.willistowerswatson.com/sites/tfsWillis/Carrier Integration Management
+
+
+-----------
+http://connect.willis.com/wna/nashville	
+http://nateamsites.willistowerswatson.com/sites/nashville 
+
+http://connect.willis.com/corp/wordings_libraries/FINEXUSUKCOMM	
+http://nateamsites.willistowerswatson.com/sites/wordings_libraries/FINEXUSUKCOMM 
+
+======
+
+http://info.willis.com/site/WillisSouthAfrica     	
+https://nasp.willistowerswatson.com/sites/WillisSouthAfrica 
+
+http://secure.willis.com/site/BAESystems         	
+http://eusp.willistowerswatson.com/sites/BAESystems 
+
+http://secure.willis.com/site/HealthcareatHome   	
+http://eusp.willistowerswatson.com/sites/HealthcareatHome
+
+http://access.willis.com/site/thermofisher	
+http://eusp.willistowerswatson.com/sites/thermofisher 
+
+http://connect2.willis.com/tfs/tps/MumbaiToMinneapolis	
+http://nateamsites.willistowerswatson.com/sites/MumbaiToMinneapolis 
+
+
+
+
+23 dec
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/AutoAllocation
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BIntroduction
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BPIntroduction
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BPSystemOverview
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BSMFiles
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BSMTransaction
+
+migration done
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/AutoAllocation	
+https://euteamsites.willistowerswatson.com/sites/AutoAllocation 
+migration Done
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BIntroduction	
+https://euteamsites.willistowerswatson.com/sites/BIntroduction 
+migration Done
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BPIntroduction	
+https://euteamsites.willistowerswatson.com/sites/BPIntroduction 
+
+migration Done
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BPSystemOverview	
+https://euteamsites.willistowerswatson.com/sites/BPSystemOverview 
+Migration Done
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BSMFiles	
+https://euteamsites.willistowerswatson.com/sites/BSMFiles
+Migration Done
+http://connect.willis.com/corp/goaands/ProcessandProcedure/BureauManual/BSMTransaction	
+https://euteamsites.willistowerswatson.com/sites/BSMTransaction 
+
+-------------------
+
+http://connect.willis.com/corp/goaands/GreshamsCTC----need to macth permissions	
+
+
+
+
+http://connect.willis.com/corp/ea
+http://connect.willis.com/corp/ea/acquisitions
+http://connect.willis.com/corp/ea/acquisitions/blue
+http://connect.willis.com/corp/ea/acquisitions/bluebird
+http://connect.willis.com/corp/ea/acquisitions/camelot
+http://connect.willis.com/corp/ea/acquisitions/geranium
+http://connect.willis.com/corp/ea/acquisitions/icarus
+http://connect.willis.com/corp/ea/acquisitions/narnia
+http://connect.willis.com/corp/ea/acquisitions/picasso
+http://connect.willis.com/corp/ea/acquisitions/sunaro
+http://connect.willis.com/corp/ea/blueprint
+http://connect.willis.com/corp/ea/team
+http://connect.willis.com/corp/ea/team/ArchMtg
+http://connect.willis.com/corp/ea/team/EA Ring 1 Meeting
+http://connect.willis.com/corp/ea/team/ross
+
+http://connect.willis.com/corp/skylinewna
+http://connect.willis.com/gs/MarineMar
+http://connect.willis.com/gs/MarineMar/Advent
+http://connect.willis.com/gs/MarineMar/Aegis
+http://connect.willis.com/gs/MarineMar/Allianz
+http://connect.willis.com/gs/MarineMar/Arch
+http://connect.willis.com/gs/MarineMar/Argo
+http://connect.willis.com/gs/MarineMar/Ascot
+http://connect.willis.com/gs/MarineMar/Aspen
+http://connect.willis.com/gs/MarineMar/Atrium
+http://connect.willis.com/gs/MarineMar/Aviva
+http://connect.willis.com/gs/MarineMar/Beazley
+http://connect.willis.com/gs/MarineMar/Brit
+http://connect.willis.com/gs/MarineMar/Chaucer
+http://connect.willis.com/gs/MarineMar/ChubbAce
+http://connect.willis.com/gs/MarineMar/CNAH
+http://connect.willis.com/gs/MarineMar/Liberty
+http://connect.willis.com/gs/MarineMar/Markel
+http://connect.willis.com/gs/MarineMar/MSA
+http://connect.willis.com/gs/MarineMar/Nav
+http://connect.willis.com/gs/MarineMar/Novae
+http://connect.willis.com/gs/MarineMar/PI
+http://connect.willis.com/gs/MarineMar/Pioneer
+http://connect.willis.com/gs/MarineMar/QBE
+http://connect.willis.com/gs/MarineMar/RSA
+http://connect.willis.com/gs/MarineMar/SC
+http://connect.willis.com/gs/MarineMar/SwissRe
+http://connect.willis.com/gs/MarineMar/TMK
+http://connect.willis.com/gs/MarineMar/Trvlr
+http://connect.willis.com/gs/MarineMar/XLCatlin
+http://connect.willis.com/gs/MarineMar/Zurich
+
+
+
+
+
+
+
+
+
+
+
+https://euteamsites.willistowerswatson.com/sites/goaands/GreshamsCTC
+
+http://connect.willis.com/corp/goaands/TaskManager	
+https://euteamsites.willistowerswatson.com/sites/goaands/TaskManager
+=======================
+
+
+90	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/BoredereauCorrespondence	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/BoredereauCorrespondence
+91	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/CashPayments	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/CashPayments
+92	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/CashReceipts	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/CashReceipts
+93	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/ClaimsSpecialCollections	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/ClaimsSpecialCollections
+94	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/CommutationDirectSettlement	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/CommutationDirectSettlement
+95	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/ControlAccounts	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/ControlAccounts
+96	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/CurrencyDealings	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/CurrencyDealings
+97	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/EclipseTransactionReports	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/EclipseTransactionReports
+98	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/HandlingQueries	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/HandlingQueries
+99	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/IdentifyOutstandingDebts	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/IdentifyOutstandingDebts
+100	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/PriorityPostings	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/PriorityPostings
+101	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/Statements	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/Statements
+102	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/SystemOverview	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/SystemOverview
+
+===
+
+80	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseWriteOffWithinAllocation	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseWriteOffWithinAllocation
+81	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/OutstandingSpecials	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/OutstandingSpecials
+82	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ReviewNotes	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ReviewNotes
+83	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ReviewPriorityPostings	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ReviewPriorityPostings
+84	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ReviewUnallocatedCash	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ReviewUnallocatedCash
+85	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/UpdateSettlementDueDate	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/UpdateSettlementDueDate
+86	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ViewRenderableNonRenderableLog	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/ViewRenderableNonRenderableLog
+87	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual
+88	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/AccountMaintenance	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/AccountMaintenance
+89	http://connect.willis.com/corp/goaands2/ProcessandProcedure/NonBureauManual/BasicEclipsePrinciples	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/NonBureauManual/BasicEclipsePrinciples
+========
+
+70	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual
+71	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseAlternateBankingCurrency	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseAlternateBankingCurrency
+72	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseCashPaymentForm	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseCashPaymentForm
+73	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseCashPaymentFormManualTemplate	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseCashPaymentFormManualTemplate
+74	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseCrossSystemTransfer	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseCrossSystemTransfer
+75	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseDealCurrency	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseDealCurrency
+76	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseJournal	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseJournal
+77	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthorisePendingOverride	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthorisePendingOverride
+78	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseStandAloneCashTransfer	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseStandAloneCashTransfer
+79	http://connect.willis.com/corp/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseWriteOff	
+https://euteamsites.willistowerswatson.com/sites/goaands2/ProcessandProcedure/ManagersAuthorisersManual/AuthoriseWriteOff
+
+===================
+
+http://access.willis.com/site/wcbn/ArthurDoodson 	
+http://eusp.willistowerswatson.com/sites/ArthurDoodson 
+
+http://connect.willis.com/gs/professionalrisks	
+http://euteamsites.willistowerswatson.com/sites/professionalrisks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
