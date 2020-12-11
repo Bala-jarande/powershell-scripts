@@ -1,0 +1,12 @@
+While migrating sites do the following:
+
+1.	Migrate everything but the workflows (Do necessary modification to the settings in the Sharegate to skip workflows)
+2.	During cutover window:
+
+1.	Unpublish the workflow from the source.
+2.	Migrate the delta content and disabled workflow to the new site.
+3.	Publish the workflow in both the old site and the new site.
+
+If the site does not have any workflows then go ahead with the usual approach.
+
+Let’s ensure we don’t rely on tool on this piece of work. 

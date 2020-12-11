@@ -1,0 +1,18 @@
+Hi All,
+
+Please find check list for migration testing
+
+•	Lookup column- If yes, check  lookup column has value in the list or not 
+•	Workflows   -If Yes, check workflow has error or not . Do not publish workflow till cutover
+•	InfoPath form – If yes , check the Infopath form has custom code or fix the issue 
+•	T&C – If yes, make custom permission and give unique permission on User details list
+•	Permissions-site level – add the permission if anything missed
+•	Contents  - compare content and migrate again if needed
+•	Pages and home page permission – fix the pages and add the home page permission if anything missed
+•	Links – fix the link on the pages 
+•	Top and left navigation – fix the links 
+•	Make style resource reader as read
+
+
+Please add if anything missed
+

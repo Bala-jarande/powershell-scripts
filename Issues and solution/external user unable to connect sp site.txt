@@ -1,0 +1,3 @@
+Created new permission level copy read permission -in read external>>extra permissions checked add item and manage persional views
+
+and assign that permission level to external DL's in which user is present(affected user)

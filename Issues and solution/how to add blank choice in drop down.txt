@@ -1,0 +1,8 @@
+1. Go to the column drop down list in question. 
+2. At the first entry on the list do a return to create a blank space. 
+3. Inside that blank space place your cursor and press and hold down the ALT key while typing 0129 on the NUMERIC KEYPAD. This will enter another type of “blank character” that SharePoint cannot wipe away. 
+4. In the Default Entry setting do the same. 
+5. Save and you are done. 
+
+
+https://powerusers.microsoft.com/t5/Building-Power-Apps/How-to-add-a-quot-Blank-quot-field-to-choice-field-in-SharePoint/td-p/76436

@@ -1,0 +1,6 @@
+in new version of shrepoint user with contribute rights not able to see ribbon in list
+
+solution
+go to site permission>>create new permission level>>copy contribute>>check one permission add and costomize pages>>and assign this permssion levele to members gorup or user who wants to see ribbon
+
+or if you give design permission at site level to the user>>issue resolved
